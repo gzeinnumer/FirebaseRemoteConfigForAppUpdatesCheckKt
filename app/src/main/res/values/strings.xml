@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseRemoteConfigForAppUpdatesCheckKt</string>
+    <string name="dialog_update_available_message">A new version is found on Play store, please update for better usage.</string>
+    <string name="update_app">Update App</string>
+    <string name="update_now">Update Now</string>
+    <string name="later">Later</string>
+</resources>
